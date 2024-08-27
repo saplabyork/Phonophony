@@ -1,0 +1,54 @@
+---
+title: "Phonophony"
+output: 
+  html_document:
+    includes:
+      in_header: 
+    theme: simplex
+---
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+![](images/phonophony_logo.jpg)
+Fall 2024
+\
+Thursdays\
+Accolade East (ACE) Building, Rm. 010\
+Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
+Contact: [chandann@yorku.ca](mailto:chandann@yorku.ca)\
+[Course outline and schedule](LING4230syllabus.html)
+
+### About
+
+This seminar is an introduction to the relationship between neural structures, speech, and language behaviors (more broadly *neurolinguistics*).We examine questions like: What are the mental processes that underlie language and what are their behavioral correlates? What brain structures are associated with language? We will read primary research articles, both “classic” and current, that address various problems and issues in linguistic functions and their psychological and neurological underpinnings. The course follows the speech chain beginning with basic audition, speech perception and phonological processing, into higher levels of syntactic and semantic processing. The course also addresses research in bi-/multilingualism as well as language disorders, such as aphasia.
+
+**It’s imperative that you have the appropriate background to participate in the is course. We won't be spending any time on the basics of phonetics, phonology, or syntax as you’re expected to know this.**
+
+
+### How to use this site
+
+This site is meant to serve as a supplement to the delivered lectures and associated slides posted on [eClass](https://eclass.yorku.ca). The notes will give a bit more detail than the slides, as well as some practice problems of the type you might encounter on quizzes and exams. 
+
+
+</div>
+<div class="col-sm-6">
+
+</a>
+</div>
