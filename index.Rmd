@@ -23,10 +23,11 @@ output:
 
 </style>
 
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
 
+
+<center> 
 ![](images/phonophony_logo.jpg)
+</center>
 Fall 2024
 \
 Thursdays\
