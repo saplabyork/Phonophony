@@ -37,7 +37,7 @@ Contact: [chandann@yorku.ca](mailto:chandann@yorku.ca)\
 
 ### About
 
-This seminar is an introduction to the relationship between neural structures, speech, and language behaviors (more broadly *neurolinguistics*).We examine questions like: What are the mental processes that underlie language and what are their behavioral correlates? What brain structures are associated with language? We will read primary research articles, both “classic” and current, that address various problems and issues in linguistic functions and their psychological and neurological underpinnings. The course follows the speech chain beginning with basic audition, speech perception and phonological processing, into higher levels of syntactic and semantic processing. The course also addresses research in bi-/multilingualism as well as language disorders, such as aphasia.
+This is the landing site for the Phonophony group.
 
 **It’s imperative that you have the appropriate background to participate in the is course. We won't be spending any time on the basics of phonetics, phonology, or syntax as you’re expected to know this.**
 
