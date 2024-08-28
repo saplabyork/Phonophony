@@ -1,6 +1,6 @@
 name: "Phonophony"
 navbar:
-  title: "Phonophony: Phonology and Phonetics Discussion Group at York"
+  title: ""
   left:
     - text: "Home"
       href: index.html

@@ -30,26 +30,16 @@ output:
 </center>
 Fall 2024
 \
-Thursdays\
+Thursdays (see calendar below)\
 Accolade East (ACE) Building, Rm. 010\
-Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
-Contact: [chandann@yorku.ca](mailto:chandann@yorku.ca)\
-[Course outline and schedule](LING4230syllabus.html)
+Coordinators: [Chandan Narayan](https://ch-narayan.github.io), [Thomas Kettig](https://tkettig.wixsite.com/home), [Emily Elfner](https://emilyelfner.info.yorku.ca/), [Liisa Duncan](https://profiles.laps.yorku.ca/profiles/liduncan/)\
+\
+\
 
 ### About
 
-This is the landing site for the Phonophony group.
+This is the landing site for the Phonophony group, an informal meeting of faculty and students interested in speech sounds. We meet once (or twice) a month to discuss our own research or to read interesting papers about phonology, phonetics, speech perception, acoustics, etc. We will occasionally invite visiting linguists to present their work to our group.
 
-**It’s imperative that you have the appropriate background to participate in the is course. We won't be spending any time on the basics of phonetics, phonology, or syntax as you’re expected to know this.**
-
-
-### How to use this site
-
-This site is meant to serve as a supplement to the delivered lectures and associated slides posted on [eClass](https://eclass.yorku.ca). The notes will give a bit more detail than the slides, as well as some practice problems of the type you might encounter on quizzes and exams. 
-
-
-</div>
-<div class="col-sm-6">
-
-</a>
-</div>
+<center>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%23D50000&showTitle=0&src=c2FwbGFieW9ya0BnbWFpbC5jb20&src=ZW4uY2FuYWRpYW4jaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237986CB&color=%234285F4" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</center>
