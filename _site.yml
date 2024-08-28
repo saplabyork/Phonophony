@@ -1,0 +1,15 @@
+name: "Phonophony"
+navbar:
+  title: "Phonophony: Phonology and Phonetics Discussion Group at York"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: 
+    - text: "Readings"
+      menu:
+        - text: "Lecture 1"
+          href: lecture1.html
+    - text: "Other"
+      href: 
+output_dir: "docs"
