@@ -3,7 +3,7 @@ title: "Phonophony"
 output: 
   html_document:
     includes:
-      in_header: 
+      in_header: "favicon.html"
     theme: simplex
 ---
 <style type="text/css">
