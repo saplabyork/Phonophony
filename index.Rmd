@@ -40,6 +40,3 @@ Coordinators: [Chandan Narayan](https://ch-narayan.github.io), [Thomas Kettig](h
 
 This is the landing site for the Phonophony group, an informal meeting of faculty and students interested in speech sounds. We meet once (or twice) a month to discuss our own research or to read interesting papers about phonology, phonetics, speech perception, acoustics, etc. We will occasionally invite visiting linguists to present their work to our group.
 
-<center>
-<iframe src="https://calendar.google.com/calendar/embed?src=d6fa0eef86009fe526565f491f66d13fb0a0d9cd310d29499db2dbb6f92f976f%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></iframe>
-</center>
